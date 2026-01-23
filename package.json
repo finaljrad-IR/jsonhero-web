@@ -55,7 +55,7 @@
     "framer-motion": "^6.2.4",
     "json-source-map": "^0.6.1",
     "jwt-decode": "^3.1.2",
-    "lodash-es": "^4.17.21",
+    "lodash-es": "^4.17.23",
     "nanoid": "^3.2.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
